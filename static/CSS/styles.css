@@ -9,8 +9,8 @@ body{
 
 .myButton {
 	box-shadow:inset 1px -3px 6px -1px #152538;
-	background:linear-gradient(to bottom, #57c5d4 5%, #418a9c 100%);
-	background-color:#57c5d4;
+	background:linear-gradient(to bottom, #57c5d4 5%, #21363b 100%);
+	background-color:#21363b;
 	border-radius:6px;
 	border:1px solid #244e8a;
 	display:inline-block;
@@ -25,7 +25,7 @@ body{
 }
 .myButton:hover {
 	background:linear-gradient(to bottom, #418a9c 5%, #57c5d4 100%);
-	background-color:#418a9c;
+	background-color:#2ab5d8;
 }
 h1{
   padding-bottom: 2%;
@@ -53,8 +53,8 @@ img{
 }
 
 .title{
-  font-family: 'Sacramento', cursive;
-  background-color:#418a9c;
+  font-family: 'Arial', cursive;
+  background-color:#21363b;
   padding: 3%;
 
 }
